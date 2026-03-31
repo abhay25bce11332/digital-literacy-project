@@ -1,7 +1,7 @@
 #  Digital Literacy Portfolio Project
 
-**Name:** Aryan Kundu 
-**Registration Number:** 25BCE11217 
+**Name:** Abhay kumar
+**Registration Number:** 25BCE11332
 **Branch:** B.Tech CSE(CORE)  
 **Year:** 1st Year  
 **Course Code:** CSE0001 – Digital Literacy  
